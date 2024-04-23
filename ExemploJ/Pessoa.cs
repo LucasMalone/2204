@@ -30,6 +30,10 @@ namespace ExemploJ
                 }
             }
         }
+        public Pessoa()
+        {
+
+        }
         public Pessoa(string nome, double salario)
         {
             this.nome = nome;
